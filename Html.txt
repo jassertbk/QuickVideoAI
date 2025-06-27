@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>InVideo – AI Video Creation Tool</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<header>
+  <h1>Create Stunning Videos with InVideo</h1>
+  <p>Use AI to generate professional videos in minutes.</p>
+</header>
+
+<main>
+  <h2>🎬 What is InVideo?</h2>
+  <p>InVideo is an AI-powered platform that turns your text, ideas, or scripts into stunning videos — no experience required!</p>
+
+  <h2>✨ Key Features</h2>
+  <div class="features">
+    <div class="feature">
+      <img src="images/video-editing.jpg" alt="Video Editing" />
+      <p>Transform text into engaging videos instantly.</p>
+    </div>
+    <div class="feature">
+      <img src="images/ai-concept.jpg" alt="AI Features" />
+      <p>AI automates editing: voiceovers, scenes, transitions.</p>
+    </div>
+    <div class="feature">
+      <img src="images/youtube-thumbnail.jpg" alt="Social Media" />
+      <p>Perfect for YouTube, Instagram, TikTok, and marketing.</p>
+    </div>
+  </div>
+
+  <h2>📺 Demo Video</h2>
+  <iframe src="https://www.youtube.com/embed/FhId7pR8V9U" allowfullscreen></iframe>
+
+  <a href="https://invideo.io?ref=YOUR_AFFILIATE_ID" target="_blank" class="cta-button">Try InVideo for Free</a>
+</main>
+
+<footer>
+  &copy; 2025 AI Video Tools | Built by You
+</footer>
+
+</body>
+</html>
